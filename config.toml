@@ -6,7 +6,7 @@ theme = "minimal"
 googleAnalytics = ""
 
 [params]
-    author = "Calin Tataru"
+    author = "Chad Mooney"
     description = "I am what society created"
     githubUsername = "trikyas"
     accent = "#35d181"
