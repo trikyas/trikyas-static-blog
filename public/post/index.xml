@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Chad&#39;s Blog</title>
+    <link>http://example.com/post/</link>
+    <description>Recent content in Posts on Chad&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Jan 2018 10:27:25 +1100</lastBuildDate>
+    
+	<atom:link href="http://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test</title>
+      <link>http://example.com/post/test/</link>
+      <pubDate>Sat, 06 Jan 2018 10:27:25 +1100</pubDate>
+      
+      <guid>http://example.com/post/test/</guid>
+      <description>Welcome my blog! There isn&amp;rsquo;t much here yet.
+It&amp;rsquo;s being built.</description>
+    </item>
+    
+  </channel>
+</rss>

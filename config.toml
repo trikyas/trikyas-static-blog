@@ -1,9 +1,10 @@
 baseURL = "http://example.com/"
 languageCode = "en-us"
 title = "Chad's Blog"
-theme = "minimal"
+paginate = 10
 #disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
+theme = "minimal"
 
 [params]
     author = "Chad Mooney"
